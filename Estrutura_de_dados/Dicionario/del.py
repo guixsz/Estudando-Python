@@ -8,3 +8,4 @@ del contatos["guilherme@exemplo.com"]["telefone"]
 del contatos ["giovanna@exemplo.com"]["idade"]
 
 print(contatos)
+
